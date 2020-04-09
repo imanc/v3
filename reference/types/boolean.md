@@ -18,14 +18,16 @@ Tell a student what a boolean is in your language, what the boolean operators ar
 
 This exercise lists all the available actions of the main character in a given situation. The reference implementation (Javascript) teaches:
 
-- boolean values
-- boolean operators
-- boolean operators precedence
+- Boolean values.
+- Boolean operators.
+- Boolean operators precedence.
 
 #### Implementations
 
 | Track | Exercise                              | Changes |
 | ----- | ------------------------------------- | ------- |
+| F#    | [booleans][implementation-fsharp]     | None    |
 | JS    | [booleans][implementation-javascript] | None    |
 
+[implementation-fsharp]: ../../languages/fsharp/exercises/concept/booleans/.docs/introduction.md
 [implementation-javascript]: ../../languages/javascript/exercises/concept/booleans/.docs/introduction.md
